@@ -38,4 +38,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Array
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
