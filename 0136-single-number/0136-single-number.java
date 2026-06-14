@@ -6,10 +6,9 @@ class Solution {
                 set.remove(num);
             }
         }
-        
         for(int num: set){
             return num;
         }
-        return -1;
+    return -1;
     }
 }
