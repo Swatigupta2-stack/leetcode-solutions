@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0217-contains-duplicate) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0136-single-number](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -82,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0049-group-anagrams) |
 ## Trie
 |  |
 | ------- |
