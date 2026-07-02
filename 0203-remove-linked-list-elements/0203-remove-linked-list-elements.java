@@ -20,15 +20,12 @@ class Solution {
        temp = temp.next;
        while(temp!= null){
         if(temp.val==val){
-            
-            prev.next = prev.next.next;
-            
-            temp = temp.next;
+            prev.next = prev.next.next;   
         }
         else{
-            prev = prev.next;
-            temp = temp.next;
+            prev = prev.next; 
         }
+        temp = temp.next;
        }
        if(head.val == val)
        return dummy.next;
