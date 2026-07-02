@@ -18,18 +18,11 @@ class Solution {
        return null;
        
        temp = temp.next;
-       //if(head.val == val)
-       //prev = prev.next;
-       
-       
        while(temp!= null){
         if(temp.val==val){
-            if(prev == temp){
-                prev.next = temp.next;
-            }
-            else{
+            
             prev.next = prev.next.next;
-            }
+            
             temp = temp.next;
         }
         else{
