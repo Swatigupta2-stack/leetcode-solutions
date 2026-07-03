@@ -16,14 +16,12 @@ class Solution {
         return head;
         temp = temp.next;
         while(temp!=null && prev.next!= null){
-            if(temp.val == prev.val){
+            if(temp.val == prev.val)
                 prev.next = prev.next.next;
-                temp = temp.next;
-            }
-            else{
-            prev = prev.next;
-            temp = temp.next;
-        }
+            else
+                prev = prev.next;
+           
+        temp = temp.next;
         }
         return head;
     }
