@@ -19,8 +19,8 @@ class Solution {
         size++;
         temp = temp.next;
        } 
-       if(size==1 && n==1)
-       return null;
+       //if(size==1 && n==1)
+       //return null;
 
        if(size==n)
        return head.next;
