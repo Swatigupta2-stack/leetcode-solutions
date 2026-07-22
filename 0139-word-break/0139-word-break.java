@@ -11,7 +11,7 @@ class Solution {
             for(int i = 1; i<= s.length(); i++){
                 for(int j = i-1; j>= Math.max(0, i-maxlen); j--)
                 {
-                    if(dp[j] && set.contains(s.substring(j, i))){
+                    if(dp[j] && set.contains(s.substring(j, i))){ //s.substring(0, 2) = from index 0 to 1
                         dp[i] = true;
                         break;
                     }
