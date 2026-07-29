@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0496-next-greater-element-i) |
@@ -102,12 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0169-majority-element) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## String
 |  |
@@ -141,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0191-number-of-1-bits) |
 ## Tree
 |  |
