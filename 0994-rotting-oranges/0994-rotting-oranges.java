@@ -30,7 +30,7 @@ class Solution {
             int size = queue.size();
             boolean rotted = false;
             
-            for (int i = 0; i < size; i++) {           // Loop through ALL rotten oranges at current minute
+            for (int i = 0; i < size; i++) {          // Loop through ALL rotten oranges at current minute
                int[] curr = queue.poll();              // Get one rotten orange from queue
                int row = curr[0];                      // Its row position
                int col = curr[1];                      // Its column position
