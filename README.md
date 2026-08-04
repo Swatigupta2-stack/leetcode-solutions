@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0692-top-k-frequent-words](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
+| [0994-rotting-oranges](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0226-invert-binary-tree](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0226-invert-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -242,4 +244,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
