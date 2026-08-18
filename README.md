@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0139-word-break](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0139-word-break) |
 | [0205-isomorphic-strings](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0205-isomorphic-strings) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
