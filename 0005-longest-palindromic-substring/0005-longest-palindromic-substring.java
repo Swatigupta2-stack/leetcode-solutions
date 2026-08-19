@@ -1,30 +1,33 @@
 class Solution {
     public String longestPalindrome(String s) {
       
-        int n = s.length();
-        if (n < 2) return s;
+        if (s == null || s.length() < 1) return "";
         
-        String longest = "";
+        int start = 0, end = 0;
         
-        for (int i = 0; i < n; i++) {
-            for (int j = i; j < n; j++) {
-                String sub = s.substring(i, j + 1);
-                if (isPalindrome(sub) && sub.length() > longest.length()) {
-                    longest = sub;
-                }
+        for (int i = 0; i < s.length(); i++) {
+            // Odd length palindrome (center at i)
+            int len1 = expandAroundCenter(s, i, i);
+            // Even length palindrome (center between i and i+1)
+            int len2 = expandAroundCenter(s, i, i + 1);
+            
+            int len = Math.max(len1, len2);
+            
+            if (len > end - start) {
+                start = i - (len - 1) / 2;
+                end = i + len / 2;
             }
         }
-        return longest;
+        return s.substring(start, end + 1);
     }
     
-    private boolean isPalindrome(String s) {
-        int left = 0, right = s.length() - 1;
-        while (left < right) {
-            if (s.charAt(left) != s.charAt(right)) return false;
-            left++;
-            right--;
+    private int expandAroundCenter(String s, int left, int right) {
+        while (left >= 0 && right < s.length() && s.charAt(left) == s.charAt(right)) {
+            left--;
+            right++;
         }
-        return true;
-    
+        return right - left - 1; // Length of palindrome
     }
 }
+    
+    
