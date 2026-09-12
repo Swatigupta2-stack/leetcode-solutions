@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1052-grumpy-bookstore-owner](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -275,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1052-grumpy-bookstore-owner](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Heap (Priority Queue)
 |  |
