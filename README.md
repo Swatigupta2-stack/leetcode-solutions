@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1512-number-of-good-pairs) |
+| [1539-kth-missing-positive-number](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 | [1929-concatenation-of-array](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Prefix Sum
 |  |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1539-kth-missing-positive-number](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1539-kth-missing-positive-number) |
 ## Stack
 |  |
 | ------- |
