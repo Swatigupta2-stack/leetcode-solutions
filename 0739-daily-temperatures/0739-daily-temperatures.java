@@ -8,10 +8,11 @@ class Solution {
                 st.pop();
             }
             if(!st.isEmpty()) 
-            ans[i] = st.peek() - i;
+            ans[i] = st.peek() - i;//note 
 
             st.push(i);
         }
          return ans;
     }
 }
+// initially, the ans is [0,0,0,0,0,0,0,0] so for i 7 and 6 when stack is empty, values bu dflt r 0
