@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0303-range-sum-query-immutable](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Tree
 |  |
@@ -300,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0692-top-k-frequent-words) |
@@ -312,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quickselect
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 ## Design
 |  |
