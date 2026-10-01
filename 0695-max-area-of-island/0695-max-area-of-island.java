@@ -36,11 +36,9 @@ class Solution {
             int nc = c + dir[k][1];
             
             if(nr>=0 && nr< row && nc>=0 && nc<col && !visited[nr][nc] && grid[nr][nc]==1){
-              
-                
+                           
                area += dfs(nr, nc,grid, visited);
                 
-              
             }
         }
         return area;
