@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0994-rotting-oranges](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1052-grumpy-bookstore-owner](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1052-grumpy-bookstore-owner) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -339,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/0994-rotting-oranges) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/Swatigupta2-stack/leetcode-solutions/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Quicksort
 |  |
 | ------- |
